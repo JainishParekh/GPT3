@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
-        <div className="gpt3__navbar-inks_logs">
+        <div className="gpt3__navbar-links_logs">
           <img src={logo} alt="logo"></img>
         </div>
         <div className="gpt3__navbar-links_container">
